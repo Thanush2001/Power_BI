@@ -87,7 +87,7 @@ Here’s a snapshot of the dashboard:
 ## 📸 Dashboard Preview
 Here’s a snapshot of the Power BI Dashboard:
 
-![Dashboard Preview](Power_BI/PowerBI_Output.png)
+![Dashboard Preview](PowerBI_Output.png)
 
 🎉 Why This Dashboard Is Important
 This Power BI Student Details Dashboard simplifies:
