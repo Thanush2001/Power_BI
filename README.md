@@ -82,16 +82,13 @@ Click Refresh to load the data.
 ✅ Export data or generate custom reports as needed.
 📷 Dashboard Preview (Add Screenshot)
 Here’s a snapshot of the dashboard:
+# 📊 Power BI Dashboard - Keys Institute Students Details
 
-👉 To add a screenshot:
+## 📸 Dashboard Preview
+Here’s a snapshot of the Power BI Dashboard:
 
-Take a screenshot of your Power BI Dashboard.
-Upload it to your GitHub repository (Images folder).
-Update your README file like this:
-markdown
-Copy
-Edit
-[Dashboard Preview](Power%20BI/Power%20BI%20Output.png)
+![Dashboard Preview](Power%20BI/PowerBI_Output.png)
+
 🎉 Why This Dashboard Is Important
 This Power BI Student Details Dashboard simplifies:
 
