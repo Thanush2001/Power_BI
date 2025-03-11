@@ -91,8 +91,7 @@ Update your README file like this:
 markdown
 Copy
 Edit
-(![Dashboard Preview](Power%20BI/Power%20BI%20Output.png)
-)
+[Dashboard Preview](Power%20BI/Power%20BI%20Output.png)
 🎉 Why This Dashboard Is Important
 This Power BI Student Details Dashboard simplifies:
 
