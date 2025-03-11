@@ -16,22 +16,28 @@ The dashboard contains the following key insights:
 🎓 1. Total Students Overview
 ✅ Displays the total number of students enrolled in the institute.
 ✅ Shows students categorized by courses (like Python, Data Science, Web Development, etc.).
+
 📈 2. Course Enrollment Statistics
 ✅ Highlights the top courses based on enrollment.
 ✅ Allows management to analyze which course has maximum students.
+
 💸 3. Fees Collection Report
 ✅ Shows Total Fees Collected vs Pending Fees.
 ✅ View fee collection on a monthly basis.
 ✅ Identify students with outstanding fees.
+
 📅 4. Monthly Admissions Trend
 ✅ Displays the number of students enrolled each month.
 ✅ Helps the management track the admission trend over time.
+
 🏫 5. Student Demographics
 ✅ Allows filtering students by:
+
 Course
 Batch
 Enrollment Date
 Fees Paid/Pending
+
 💾 Data Source
 The dashboard uses the following data sources:
 
@@ -63,11 +69,13 @@ bash
 Copy
 Edit
 git clone https://github.com/Thanush2001/Power_BI.git
+
 📊 Step 2: Open Power BI File
 Open Power BI Desktop.
 Go to File → Open → Select the .pbix file.
 Connect the Excel/CSV data source (if needed).
 Click Refresh to load the data.
+
 💸 Step 3: Explore the Dashboard
 ✅ View total admissions, top courses, and monthly trends.
 ✅ Use filters to narrow down students based on batch, course, or fee status.
@@ -83,7 +91,8 @@ Update your README file like this:
 markdown
 Copy
 Edit
-![Dashboard Preview](Power BI Output.png)
+(![Dashboard Preview](Power%20BI/Power%20BI%20Output.png)
+)
 🎉 Why This Dashboard Is Important
 This Power BI Student Details Dashboard simplifies:
 
